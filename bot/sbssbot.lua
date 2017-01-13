@@ -222,6 +222,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+sudo_users = {320534493},--Sudo users  
     "all",
     "leave_ban",
     "admin",
@@ -246,15 +247,14 @@ function create_config( )
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @sina7sk
+    @nice2022
     Manager:
-    @yellowhat
+ @nice2022
     Founder:
-    @amirho3in
+    @nice2022
     
     Special Thank To:
-    Mehr Pouya
-    Arman
+    AliLover
     IM/-\N
     Creed Is Dead
     
